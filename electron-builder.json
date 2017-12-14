@@ -1,5 +1,6 @@
 {
   "appId": "org.electerm.electerm",
+  "asar": false,
   "directories": {
     "app": "work/app",
     "output": "dist"
